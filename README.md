@@ -57,3 +57,8 @@ Currently diving deeper into:
 <p align="center">
   ⭐ Thanks for visiting my GitHub profile! Always learning, always building.  
 </p>
+
+--------
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hardik-ladva&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</div>
