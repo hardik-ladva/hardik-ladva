@@ -1,52 +1,60 @@
-# 👋 Hi, I'm Hardik Ladva - Cybersecurity Enthusiast | Digital Marketer | Creative Technologist
-
-🎯 I'm a cybersecurity student with hands-on experience in Hashicorp vault & penetration testing. Currently exploring Cloud security, IAM security, Secrets Management , infrastructure security, and automation through real-world labs and self-hosted projects.
+<h1 align="center">👋 Hi, I'm Hardik Ladva</h1>
+<p align="center">
+  🔐 Cybersecurity Enthusiast 
+</p>
 
 ---
 
-## 🧠 What I’m Learning
-- 🔐 **Cybersecurity Tools**: HashiCorp Vault
-- 🧪 **Labs**: Hack The Box, TryHackMe
-- 🧰 **DevOps & Infra**: Docker, Linux, SSH, VPS hardening
+### 🧭 About Me
+
+🎯 I'm a cybersecurity student with hands-on experience in **HashiCorp Vault** and **penetration testing**.  
+Currently diving deeper into:
+
+- ☁️ Cloud Security  
+- 🛡️ IAM Security  
+- 🔑 Secrets Management  
+- ⚙️ Infrastructure Security & Automation  
+
+
+---
+
+### 🧠 What I’m Learning
+
+- 🔐 **Cybersecurity Tools**: HashiCorp Vault, Kali Linux, Burp Suite  
+- 🧪 **Labs**: Hack The Box, TryHackMe,   
+- 🧰 **DevOps & Infra**: Docker, Linux, SSH, VPS hardening  
 - 💻 **Languages**: Python, Bash, JavaScript
 
 ---
 
-## 📦 Projects
-Here are some of the key projects I’m working on:
+### 📦 Featured Projects
 
-### 🔐 [Vault Microservices Project](https://github.com/hardik-ladva/vault-microservices-project)  
-
-
-### 🧠 [CTF Writeups & Challenges](https://github.com/yourusername/ctf-writeups)  
-> Detailed walkthroughs of **TryHackMe**, **HackTheBox**, and custom CTFs.
-
-### 🌐 [Mango Marketers Site]([https://github.com/yourusername/mango-marketers-site](https://www.mangomarketers.net/))  
-> Marketing agency focusing on night life capturing and automative industry
+| 💡 Project | 🔍 Description | ⚙️ Tech |
+|-----------|----------------|---------|
+| [`Vault Microservices Project`](https://github.com/hardik-ladva/vault-microservices-project) | Secure secret management across services | Vault, Docker, Bash |
+| [`CTF Writeups`](https://github.com/yourusername/ctf-writeups) | TryHackMe & HTB walkthroughs | Penetration Testing |
 
 ---
 
-## 🛠️ Tools & Tech Stack
+🛠️ Tools & Tech Stack
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=HashiCorp&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=HashiCorp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-ladva/)
+[![Try Hack Me](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/w4tch3rr)
+[![HackTheBox](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://app.hackthebox.com/profile/1203420)
+
 
 ---
 
-## ✍️ Content & Documentation
-- 📸 [Mango Marketers Showreel (coming soon)]()
-- 🎥 Behind-the-scenes documentary: “From Kitchen to Camera”
-- ✍️ Technical blogs (coming soon)
-
----
-
-## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/hardik-ladva/)
-- 🧑‍💻 [TryHackMe](https://tryhackme.com/p/w4tch3rr)
-
----
-
-⭐ *Thanks for visiting my GitHub profile! Always learning, always building.*
-
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile! Always learning, always building.  
+</p>
