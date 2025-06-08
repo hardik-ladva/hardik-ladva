@@ -31,8 +31,7 @@ Currently diving deeper into:
 
 | 💡 Project | 🔍 Description | ⚙️ Tech |
 |-----------|----------------|---------|
-| [`Vault Microservices Project`](https://github.com/hardik-ladva/vault-microservices-project) | Secure secret management across services | Vault, Docker, Bash |
-| [`CTF Writeups`](https://github.com/yourusername/ctf-writeups) | TryHackMe & HTB walkthroughs | Penetration Testing |
+| [`Vault Microservices Project`](https://github.com/hardik-ladva/vault-microservices-project) | Demonstrates how to use HashiCorp Vault to securely manage secrets in a microservices architecture | Vault, Python |
 
 ---
 
