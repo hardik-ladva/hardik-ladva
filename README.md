@@ -31,7 +31,6 @@ Currently diving deeper into:
 
 | 💡 Project | 🔍 Description | ⚙️ Tech |
 |-----------|----------------|---------|
-| [`Vault Microservices Project`](https://github.com/hardik-ladva/vault-microservices-project) | Demonstrates how to use HashiCorp Vault to securely manage secrets in a microservices architecture | Vault, Python |
 
 ---
 
