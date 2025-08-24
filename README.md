@@ -30,8 +30,9 @@ Currently diving deeper into:
 ### 📦 Featured Projects
 
 | 💡 Project | 🔍 Description | ⚙️ Tech |
+|------------|----------------|----------|
 | [**Credit Society Management System**](https://github.com/hardik-ladva/Credit-Society-Management-System)| A Java-based console application to manage a credit society, featuring modules for shareholder management, loan processing, daily bookkeeping, and final account summaries. | **Java**, **MySQL**, **JDBC** |
-|-----------|----------------|---------|
+
 
 ---
 
