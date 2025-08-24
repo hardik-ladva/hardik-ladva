@@ -49,7 +49,7 @@ Currently diving deeper into:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-ladva/)
 [![Try Hack Me](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/w4tch3rr)
 [![HackTheBox](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=00ff00)](https://app.hackthebox.com/profile/1203420)
-[![Pwned Labs](https://img.shields.io/badge/Pwned%20Labs-000000?style=for-the-badge&logo=pwnedlabs&logoColor=white)](https://pwnedlabs.io/@w4tch3r)
+[![Pwned Labs](https://img.shields.io/badge/Pwned%20Labs-6C1EFF?style=for-the-badge)](https://pwnedlabs.io/@w4tch3r)
 
 
 ---
